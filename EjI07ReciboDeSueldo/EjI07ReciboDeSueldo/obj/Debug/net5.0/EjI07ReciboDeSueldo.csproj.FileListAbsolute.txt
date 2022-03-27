@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\bin\Debug\net5.0\EjI07ReciboDeSueldo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\refint\EjI07ReciboDeSueldo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\EjI07ReciboDeSueldo.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI07ReciboDeSueldo\EjI07ReciboDeSueldo\obj\Debug\net5.0\ref\EjI07ReciboDeSueldo.dll

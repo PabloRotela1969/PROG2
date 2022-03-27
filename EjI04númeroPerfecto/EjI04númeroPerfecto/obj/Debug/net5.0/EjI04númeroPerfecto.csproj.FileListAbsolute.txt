@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\bin\Debug\net5.0\EjI04númeroPerfecto.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\refint\EjI04númeroPerfecto.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\EjI04númeroPerfecto.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI04númeroPerfecto\EjI04númeroPerfecto\obj\Debug\net5.0\ref\EjI04númeroPerfecto.dll

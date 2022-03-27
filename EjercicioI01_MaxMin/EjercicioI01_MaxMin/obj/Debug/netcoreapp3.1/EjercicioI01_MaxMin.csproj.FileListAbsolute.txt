@@ -1,0 +1,14 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\bin\Debug\netcoreapp3.1\EjercicioI01_MaxMin.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI01_MaxMin\EjercicioI01_MaxMin\obj\Debug\netcoreapp3.1\EjercicioI01_MaxMin.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\bin\Debug\net5.0\EjI05centroNumerico.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\refint\EjI05centroNumerico.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\EjI05centroNumerico.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI05centroNumerico\EjI05centroNumerico\obj\Debug\net5.0\ref\EjI05centroNumerico.dll

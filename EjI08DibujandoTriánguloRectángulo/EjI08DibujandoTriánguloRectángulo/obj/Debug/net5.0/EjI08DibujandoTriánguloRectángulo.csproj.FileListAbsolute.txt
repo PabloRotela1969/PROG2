@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\bin\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\refint\EjI08DibujandoTriánguloRectángulo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\EjI08DibujandoTriánguloRectángulo.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI08DibujandoTriánguloRectángulo\EjI08DibujandoTriánguloRectángulo\obj\Debug\net5.0\ref\EjI08DibujandoTriánguloRectángulo.dll

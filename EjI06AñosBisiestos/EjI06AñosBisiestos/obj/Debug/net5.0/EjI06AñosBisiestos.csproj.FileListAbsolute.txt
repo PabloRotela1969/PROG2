@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\bin\Debug\net5.0\EjI06AñosBisiestos.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\refint\EjI06AñosBisiestos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\EjI06AñosBisiestos.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI06AñosBisiestos\EjI06AñosBisiestos\obj\Debug\net5.0\ref\EjI06AñosBisiestos.dll

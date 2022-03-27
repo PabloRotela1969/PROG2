@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjI04númeroPerfecto/1.0.0": {
+        "runtime": {
+          "EjI04númeroPerfecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjI04númeroPerfecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

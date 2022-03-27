@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\bin\Debug\net5.0\EjercicioI03LosPrimos.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\refint\EjercicioI03LosPrimos.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\EjercicioI03LosPrimos.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjercicioI03LosPrimos\EjercicioI03LosPrimos\obj\Debug\net5.0\ref\EjercicioI03LosPrimos.dll

@@ -1,0 +1,14 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\bin\Debug\netcoreapp3.1\ErrorAlCubo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\ErrorAlCubo\ErrorAlCubo\obj\Debug\netcoreapp3.1\ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig

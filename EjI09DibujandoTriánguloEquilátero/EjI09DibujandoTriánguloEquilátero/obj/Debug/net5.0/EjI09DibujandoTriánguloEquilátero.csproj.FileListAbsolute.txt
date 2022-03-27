@@ -1,0 +1,16 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.deps.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.runtimeconfig.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.runtimeconfig.dev.json
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\bin\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.AssemblyInfo.cs
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\refint\EjI09DibujandoTriánguloEquilátero.dll
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\EjI09DibujandoTriánguloEquilátero.genruntimeconfig.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\UTNFRA\EjI09DibujandoTriánguloEquilátero\EjI09DibujandoTriánguloEquilátero\obj\Debug\net5.0\ref\EjI09DibujandoTriánguloEquilátero.dll
